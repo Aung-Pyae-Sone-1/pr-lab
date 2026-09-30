@@ -14,10 +14,11 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ## Project structure
 
-- `app/` — routes, layout, and global styles
-- `components/` — reusable UI components
-- `lib/` — shared utilities and application logic
-- `types/` — shared TypeScript types
+- `src/app/` — routes, layout, and global styles
+- `src/components/` — reusable UI components
+- `src/lib/` — shared utilities and application logic
+- `src/types/` — shared TypeScript types
+- `public/` — static assets
 
 ## Checks
 
